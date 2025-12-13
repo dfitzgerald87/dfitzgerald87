@@ -5,6 +5,7 @@
 - 📫 How to reach me
 - 😄 Pronouns
 - ⚡ Fun fact
+- 💩 Sometimes you just gotta embrace the poop emoji
 
 <!---
 dfitzgerald87/dfitzgerald87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
